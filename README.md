@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ijavee ，一个正在入门的小白
-- 👀 I’m interested in Java programmer
-- 🌱 I’m currently learning Java
+- 🌱 I'm learning Java.
+- 👀 I’m interested in Java programming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 QQ:2548706536
+- 📫 邮箱:ijavaee@aliyun.com
 - 此项目仅上传javase入门练习代码，请多多关照
 
 <!---
