@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 QQ:2548706536
+- 此项目仅上传javase入门练习代码，请多多关照
 
 <!---
 ijavaee/ijavaee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
