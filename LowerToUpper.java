@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class LowerToUpper  {
-	//小写字母转大写字母
+	//小写字母转大写字母  by杨文胜
 	public static void main(String[] args) throws IOException {
 		boolean flag = true;
 		while(flag) {	
